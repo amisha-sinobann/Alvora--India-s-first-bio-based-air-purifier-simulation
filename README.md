@@ -396,46 +396,10 @@ The supplied HTML uses a demo token. Do not commit a private API token to a publ
 
 ---
 
-## 📁 Suggested Repository Structure
+## 📁 Suggested Repository
 
 The current application is supplied as a browser-based HTML prototype. The following is a suggested structure for organising future development, not a claim that all these files already exist.
 
-```text
-AIRJUNA/
-│
-├── README.md
-│
-├── alvora/
-│   ├── index.html
-│   ├── assets/
-│   │   ├── images/
-│   │   ├── icons/
-│   │   └── models/
-│   │
-│   ├── css/
-│   │   └── styles.css
-│   │
-│   └── js/
-│       ├── app.js
-│       ├── simulation.js
-│       ├── visualization.js
-│       ├── comparison.js
-│       └── planner.js
-│
-├── hardware/
-│   ├── architecture/
-│   ├── circuit-design/
-│   ├── sensor-integration/
-│   └── documentation/
-│
-├── research/
-│   ├── references.md
-│   └── testing-and-validation.md
-│
-└── docs/
-    ├── system-architecture.md
-    └── project-presentation.pdf
-```
 
 ## 🌎 Feasibility and Expected Impact
 
